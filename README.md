@@ -1,1 +1,1 @@
-# detectivePygame
+# Simple detective game using pygames
